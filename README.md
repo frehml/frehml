@@ -1,3 +1,10 @@
+<a href="">
+  <img align="bottom" width="47%" src="https://github-readme-stats.vercel.app/api?username=frehml&show_icons=true&theme=aura&title_color=15FF57&bg_color=101,1A191E,280036&icon_color=F2C1ED&border_radius=10&border_color=545454" />
+</a>
+<a href="">
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frehml&layout=compact&bg_color=101,1A191E,280036&border_radius=10&text_color=8FFBCD&title_color=15FF57&border_color=545454" />
+</a>
+
 ### Hi there 👋
 
 <!--
